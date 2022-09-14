@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gauraw007
-- 👀 I’m interested in quantum computing 
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking toWe on ...
 - 📫 How to reach me 
