@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Gauraw007
-- 👀 I’m interested in quantum computing 
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking toWe on ...
+- 👋 Hi, I’m @Gaurav Meherkhamb
+- 👨‍🎓Student at Savitribai Phule Pune University
 - 📫 How to reach me 
 
 <!---
