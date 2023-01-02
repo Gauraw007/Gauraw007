@@ -13,6 +13,10 @@
 [![website](./img/linkedin-dark.svg)](https:www.linkedin.com/in/gauravmeherkhamb007#gh-dark-mode-only)
 &nbsp;&nbsp;
 
+## language and tools
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+
+
 
 
 
