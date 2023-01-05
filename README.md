@@ -17,8 +17,5 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gauraw007&repo=Iris_flower_K-means_clustering)](https://github.com/Gauraw007/Iris_flower_K-means_clustering)
-
-
 
 
