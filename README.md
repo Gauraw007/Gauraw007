@@ -12,7 +12,7 @@
 
 
 ## language and tools
-[![My Skills](https://skillicons.dev/icons?i=git,py,mysql,pytorch,tensorflow,postgres,java,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,py,mysql,postgres,pytorch,tensorflow,java,css,html)](https://skillicons.dev)
 
 
 
