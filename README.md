@@ -15,7 +15,7 @@
 ## language and tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,mysql,pytorch,tensorflow,ai,java,css,html," />
+    <img src="https://skillicons.dev/icons?i=git,py,mysql,pytorch,tensorflow,postgres,java,css,html," />
   </a>
 </p>
 
