@@ -13,7 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauraw007)](https://github.com/Gauraw007/github-readme-stats)
 
 ## language and tools
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][Git]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,docker,c" />
+  </a>
+</p>
 
 
 
