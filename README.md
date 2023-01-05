@@ -10,7 +10,6 @@
   - :bird: [Twitter](https://twitter.com/Gauraw1410)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauraw007)](https://github.com/Gauraw007/github-readme-stats)
 
 ## language and tools
 <p align="center">
