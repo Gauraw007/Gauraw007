@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Dive deep into Data And AI
 - ⚡ Fun fact: I love to indulge in my nerdy passion for anime
--  I love math, programming, data science, and books
+- :notebook:  I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: 
   - :office: [LinkedIn](www.linkedin.com/in/gauravmeherkhamb007)
