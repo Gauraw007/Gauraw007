@@ -12,11 +12,8 @@
 
 
 ## language and tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,mysql,pytorch,tensorflow,postgres,java,css,html," />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,py,mysql,pytorch,tensorflow,postgres,java,css,html)](https://skillicons.dev)
+
 
 
 
