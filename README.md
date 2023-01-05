@@ -6,7 +6,7 @@
 - :notebook:  I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: 
-  - :office: [LinkedIn](www.linkedin.com/in/gauravmeherkhamb007)
+  - :office: [LinkedIn](https://www.linkedin.com/in/gauravmeherkhamb007/)
   - :bird: [Twitter](https://twitter.com/Gauraw1410)
 
 
