@@ -9,6 +9,7 @@
   - 🏢 [LinkedIn](https://www.linkedin.com/in/gauravmeherkhamb007/)
   - :bird: [Twitter](https://twitter.com/Gauraw1410)
   - 📰 [Hashnode](https://gauravmeherkhamb.hashnode.dev/) 
+  - 📧[Mail](gauravvmeherkhamb007@gmail.com)
 
 
 ## language and tools
