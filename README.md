@@ -1,4 +1,5 @@
-# Hi there, I'm Gaurav 👋 
+# Hi there, I'm Gaurav 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Dive deep into Data And AI
@@ -11,9 +12,6 @@
   - 📰 [Hashnode](https://gauravmeherkhamb.hashnode.dev/) 
   - 📧[Mail](gauravvmeherkhamb007@gmail.com)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 ## language and tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
