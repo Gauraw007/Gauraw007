@@ -11,8 +11,9 @@
   - 🏢 [LinkedIn](https://www.linkedin.com/in/gauravmeherkhamb007/)
   - :bird: [Twitter](https://twitter.com/Gauraw1410)
   - 📰 [Hashnode](https://gauravmeherkhamb.hashnode.dev/) 
-  - [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://[
-](https://www.linkedin.com/in/gauravmeherkhamb007/))]    (https://www.linkedin.com/in/gauravmeherkhamb007/)
+  - [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://[](https://www.linkedin.com/in/gauravmeherkhamb007/))]    (https://www.linkedin.com/in/gauravmeherkhamb007/)
+  - [![Twitter Badge](/twitter/url?url=https%3A%2F%2Fshields.io)(https://twitter.com/Gauraw1410)
+   
 
 
 
