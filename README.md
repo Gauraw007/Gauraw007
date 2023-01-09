@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hi_there&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%World!&fontColor=d6ace6)
 # Hi there, I'm Gaurav 👋
 
 
