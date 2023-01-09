@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0081C9&height=150&text=Hello!&fontColor=5BC0F8&fontSize=70&animation=blinking)
-# *I'm Gaurav 👋
+# *I'm Gaurav* 👋
 
 
-- 🌱 *I’m currently learning everything 🤣
-- 🥅 *2023 Goals: Dive deep into Data And AI
-- ⚡ *Fun fact: I love to indulge in my nerdy passion for anime
-- :notebook:  *I love math, programming, data science, and books
-- 🌱 *I’m addicted to learning and growing every day
-- 📫 *How to find me: 
+- 🌱 *I’m currently learning everything* 🤣
+- 🥅 *2023 Goals: Dive deep into Data And AI*
+- ⚡ *Fun fact: I love to indulge in my nerdy passion for anime*
+- :notebook:  *I love math, programming, data science, and books*
+- 🌱 *I’m addicted to learning and growing every day*
+- 📫 *How to find me*: 
   - 🏢 [LinkedIn](https://www.linkedin.com/in/gauravmeherkhamb007/)
   - :bird: [Twitter](https://twitter.com/Gauraw1410)
   - 📰 [Hashnode](https://gauravmeherkhamb.hashnode.dev/) 
@@ -16,7 +16,7 @@
 
 
 
-## *language and tools
+## *language and tools*
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,7 +39,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
 
 
 
