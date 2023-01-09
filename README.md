@@ -35,7 +35,7 @@
 
 
 ##
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauraw007&show_icons=true&theme=radical)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauraw007&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauraw007&layout=compact)](https://github.com/Gauraw007/github-readme-stats)
 
 
 
