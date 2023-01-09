@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hey!&fontColor=39B5E0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0081C9&text=Hey!&fontColor=5BC0F8)
 # I'm Gaurav 👋
 
 
