@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%World!&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%%%World!&fontColor=d6ace6)
 # I'm Gaurav 👋
 
 
@@ -34,17 +34,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-##
-
-
-
-
-
-
-
-##
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauraw007&show_icons=true&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauraw007&layout=compact&theme=transparent)](https://github.com/Gauraw007/github-readme-stats)
 
 
 
