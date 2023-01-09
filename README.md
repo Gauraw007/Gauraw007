@@ -37,10 +37,10 @@
 ##
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauraw007&show_icons=true&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauraw007&layout=compact&theme=transparent)](https://github.com/Gauraw007/github-readme-stats)
 <a href="https://github.com/Gauraw007/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gauraw007&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gauraw007&repo=Gauraw007" />
 </a>
-<a href="https://github.com/Gauraw007/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gauraw007&repo=convoychat" />
+<a href="https://github.com/Gauraw007/Gauraw007">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gauraw007&repo=Gauraw007" />
 </a>
 
 
