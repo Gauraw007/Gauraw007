@@ -34,6 +34,10 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
+##
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauraw007&show_icons=true&theme=radical)
+
+
 
 
 
