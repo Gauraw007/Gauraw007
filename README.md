@@ -34,7 +34,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-![Visitor Count](https : //profile-counter.glitch.me/Gauraw007/count.svg)
+![Visitor Count](https ://profile-counter.glitch.me/Gauraw007/count.svg)
 
 
 
