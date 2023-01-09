@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=HI, I'm Gaurav)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=HI%I'm Gaurav)
 # Hi there, I'm Gaurav 👋
 
 
