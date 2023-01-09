@@ -35,7 +35,7 @@
 
 
 ##
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauraw007&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauraw007&layout=compact&theme=radical)](https://github.com/Gauraw007/github-readme-stats)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauraw007&show_icons=true&theme=radical&hide=issues,contribs,prs)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauraw007&layout=compact&theme=radical)](https://github.com/Gauraw007/github-readme-stats)
 
 
 
