@@ -11,6 +11,9 @@
   - 📰 [Hashnode](https://gauravmeherkhamb.hashnode.dev/) 
   - 📧[Mail](gauravvmeherkhamb007@gmail.com)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 ## language and tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -33,9 +36,18 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+##
+
+
+
+
+
+
 
 ##
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauraw007&show_icons=true&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauraw007&layout=compact&theme=transparent)](https://github.com/Gauraw007/github-readme-stats)
+
+
 
 
 
