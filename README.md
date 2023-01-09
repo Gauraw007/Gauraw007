@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?color=auto)
 # Hi there, I'm Gaurav 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Dive deep into Data And AI
