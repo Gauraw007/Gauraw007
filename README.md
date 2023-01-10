@@ -14,6 +14,7 @@
   - 🤓[instagram](https://www.instagram.com/skeptical.otaku/)
    
 
+![](https://komarev.com/ghpvc/?username=Gauraw007&label=PROFILE+VIEWS)
 
 
 ## *Technologies and tools*
