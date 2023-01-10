@@ -12,9 +12,10 @@
   - :bird: [Twitter](https://twitter.com/Gauraw1410)
   - 📰 [Hashnode](https://gauravmeherkhamb.hashnode.dev/) 
   - 🤓[instagram](https://www.instagram.com/skeptical.otaku/)
+  - ❔[Leetcode](https://leetcode.com/Gauraw007)
    
 
-![](https://komarev.com/ghpvc/?username=Gauraw007&label=PROFILE+VIEWS)
+
 
 
 ## *Technologies and tools*
