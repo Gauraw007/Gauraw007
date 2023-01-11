@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0081C9&height=150&text=Hello!&fontColor=5BC0F8&fontSize=70&animation=blinking)
-# *I'm Gaurav* 👋
+<h1 align="center">*I'm Gaurav* 👋</h1>
 
 
 - 🌱 *I’m currently learning everything* 🤣
