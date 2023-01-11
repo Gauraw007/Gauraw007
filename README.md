@@ -44,8 +44,6 @@
 ![Ubantu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-### *Latest LinkedIn Post*
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7018792982040518656" height="417" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 
