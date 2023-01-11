@@ -14,6 +14,7 @@
   - 💻[Dev](https://dev.to/gaurav_meherkhamb)
   - 🤓[instagram](https://www.instagram.com/skeptical.otaku/)
   - ❔[Leetcode](https://leetcode.com/Gauraw007)
+  - 📧[Mail @] Gauravvmeherkhamb007@gmail.com
    
 
 
