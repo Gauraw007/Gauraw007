@@ -11,6 +11,7 @@
   - 🏢 [LinkedIn](https://www.linkedin.com/in/gauravmeherkhamb007/)
   - :bird: [Twitter](https://twitter.com/Gauraw1410)
   - 📰 [Hashnode](https://gauravmeherkhamb.hashnode.dev/) 
+  - 💻[Dev](https://dev.to/gaurav_meherkhamb)
   - 🤓[instagram](https://www.instagram.com/skeptical.otaku/)
   - ❔[Leetcode](https://leetcode.com/Gauraw007)
    
