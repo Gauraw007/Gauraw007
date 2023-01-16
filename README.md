@@ -12,6 +12,7 @@
   - :bird: [Twitter](https://twitter.com/Gauraw1410)
   - 📰 [Hashnode](https://gauravmeherkhamb.hashnode.dev/) 
   - 💻[Dev](https://dev.to/gaurav_meherkhamb)
+  - 📄[Medium](https://medium.com/@Gauraw1410)
   - 🤓[instagram](https://www.instagram.com/skeptical.otaku/)
   - ❔[Leetcode](https://leetcode.com/Gauraw007)
   - 📧Mail at - Gauravvmeherkhamb007@gmail.com
