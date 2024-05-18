@@ -3,7 +3,7 @@
 
 
 - 🌱 *I’m currently learning everything* 🤣
-- 🥅 *2023 Goals: Dive deep into Data And AI*
+- 🥅 *2024 Goals: Dive deep into Data And AI*
 - ⚡ *Fun fact: I love to indulge in my nerdy passion for anime*
 - :notebook:  *I love math, programming, data science, and books*
 - 🌱 *I’m addicted to learning and growing every day*
