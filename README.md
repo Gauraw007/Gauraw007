@@ -3,9 +3,9 @@
 
 
 - 🌱 *I’m currently learning everything* 🤣
-- 🥅 *2024 Goals: Dive deep into Data And AI*
+- 🥅 *2024 Goals: Dive deep into Dev. And AI*
 - ⚡ *Fun fact: I love to indulge in my nerdy passion for anime*
-- :notebook:  *I love math, programming, data science, and books*
+- :notebook:  *I love math, programming, Singing, and books*
 - 🌱 *I’m addicted to learning and growing every day*
 - 📫 *How to find me*: 
   - 🏢 [LinkedIn](https://www.linkedin.com/in/gauravmeherkhamb007/)
