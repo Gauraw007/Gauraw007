@@ -9,7 +9,7 @@
 - 🌱 *I’m addicted to learning and growing every day*
 - 📫 *How to find me*: 
   - 🏢 [LinkedIn](https://www.linkedin.com/in/gauravmeherkhamb007/)
-  - :bird: [Twitter](https://twitter.com/Gauraw1410)
+  - :bird: [Twitter](https://twitter.com/Gaurawxco)
   - 📰 [Hashnode](https://gauravmeherkhamb.hashnode.dev/)
   - 📄[Medium](https://medium.com/@Gauraw1410)
   - 🤓[instagram](https://www.instagram.com/skeptical.otaku/)
